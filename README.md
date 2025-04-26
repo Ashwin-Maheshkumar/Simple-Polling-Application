@@ -1,2 +1,2 @@
 # Simple-Polling-Application
-#Created by Ashwin and Bhavatharun
+Created by Ashwin and Bhavatharun
